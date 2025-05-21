@@ -1,5 +1,7 @@
 <h1 align="center">Bike Sharing Rentals Data Analysis and Dashboard</h1>
 
+---
+
 # Table of Contents
 
 - [Project Overview](#project-overview)
